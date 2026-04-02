@@ -29,3 +29,4 @@ Analysis of smart device usage trends to generate business recommendations for B
 ## Contact
 - LinkedIn: [LINK](https://www.linkedin.com/in/ayodeji-emmanuel-monehin-789b6b232/)
 - GitHub: [LINK](https://github.com/ayoemmanuel-pixel)
+- Kaggle: [LINK](https://www.kaggle.com/ayodejiemonehin)
