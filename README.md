@@ -16,15 +16,15 @@ Welcome to my portfolio repository. This space showcases selected projects demon
 
 ### Telco Customer Churn Analysis
 Exploratory data analysis of telecom customer churn to identify behavior patterns and retention opportunities.  
-[View Repository]([LINK](https://github.com/ayoemmanuel-pixel/telco-customer-churn-analysis))
+[View Repository](https://github.com/ayoemmanuel-pixel/telco-customer-churn-analysis)
 
 ### Telco Customer Churn & Revenue Risk Analysis Dashboard
 Power BI dashboard analyzing churn drivers, customer risk segments, and revenue exposure.  
-[View Repository](LINK)
+[View Repository](https://github.com/ayoemmanuel-pixel/telco-customer-churn-analysis-dashboard)
 
 ### Bellabeat Case Study
 Analysis of smart device usage trends to generate business recommendations for Bellabeat.  
-[View Repository](LINK)
+[View Repository](https://github.com/ayoemmanuel-pixel/telco-customer-churn-analysis)
 
 ## Contact
 - LinkedIn: LINK
