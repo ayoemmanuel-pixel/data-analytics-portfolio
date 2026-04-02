@@ -20,7 +20,7 @@ Exploratory data analysis of telecom customer churn to identify behavior pattern
 
 ### Telco Customer Churn & Revenue Risk Analysis Dashboard
 Power BI dashboard analyzing churn drivers, customer risk segments, and revenue exposure.  
-[View Repository](https://github.com/ayoemmanuel-pixel/telco-customer-churn-analysis-dashboard)
+[View Repository](https://github.com/ayoemmanuel-pixel/telco-customer-churn-powerbi-dashboard)
 
 ### Bellabeat Case Study
 Analysis of smart device usage trends to generate business recommendations for Bellabeat.  
