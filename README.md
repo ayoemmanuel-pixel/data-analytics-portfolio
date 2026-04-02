@@ -24,7 +24,7 @@ Power BI dashboard analyzing churn drivers, customer risk segments, and revenue 
 
 ### Bellabeat Case Study
 Analysis of smart device usage trends to generate business recommendations for Bellabeat.  
-[View Repository](https://github.com/ayoemmanuel-pixel/telco-customer-churn-analysis)
+[View Repository](https://github.com/ayoemmanuel-pixel/Bellabeat-Case-Study)
 
 ## Contact
 - LinkedIn: [LINK](https://www.linkedin.com/in/ayodeji-emmanuel-monehin-789b6b232/)
